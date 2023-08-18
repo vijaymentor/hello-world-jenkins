@@ -3,7 +3,8 @@
 <head>
 <style>
 body {
-  background-color: red;
+  background-color: blue;
+
 }
 
 h1 {
